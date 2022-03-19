@@ -7,4 +7,4 @@ __2d_shapes_intersection__ - 2d shapes cropping with implimentation of Kirus-Bac
 
 __3d_shape_invisible_lines__ - 3d shape invisible lines cutting. Self- writen alhorythm based on depth calculation, with manual matrix multyplying top 3 sliders- positioning, next 3- rotation, next 3- scaling, and the last one - rotation around self axis(diagonal line)
 
-both folder includes all libs you need to compile and run it on windows separatly
+both folders include all libs you need to compile and run it on windows separatly
