@@ -1,6 +1,6 @@
 # OpenGLExample
 small project about line cutting
-if you are looking for BSUIR AKG LABS, you can just rewrite it
+if you are looking for BSUIR AKG LABS, you can use it
 
 __2d_shapes_intersection__ - 2d shapes cropping with implimentation of Kirus-Back and Sazerlend-Coen alhorythms use left mouse button to drag and left to rotate, 'p' button to start/end the animation
 
